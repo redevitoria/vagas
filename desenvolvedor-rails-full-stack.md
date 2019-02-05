@@ -31,3 +31,5 @@
 * Plano de saúde e odontológico;
 * Ticket alimentação e vale transporte.
 
+### Se identificou com esse perfil?
+Envie seu currículo para talentos@folhavitoria.com.br e a gente marca um café.
