@@ -31,4 +31,4 @@
 * Ticket alimentação e vale transporte.
 
 ### Se identificou com esse perfil?
-Envie seu currículo e portifólio para talentos@folhavitoria.com.br e a gente marca um café.
+Envie seu currículo e portifólio para bruno@folhavitoria.com.br e a gente marca um café.
