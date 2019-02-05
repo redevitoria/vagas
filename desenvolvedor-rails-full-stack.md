@@ -11,7 +11,7 @@
 * Propor refatorações em códigos existentes visando melhoria de performance ou legibilidade;
 * Modelar aplicações que usem diferentes tecnologias de desenvolvimento e armazenamento, extraindo o melhor de cada uma delas para cada caso de uso.
 
-### O que é indispensável para você:
+### O que é indispensável em você:
 * 3+ anos de experiência em desenvolvimento de software e pelo menos 2 anos com Ruby on Rails;
 * Criação e manutenção de API Rest;
 * Domínio em MySQL e modelagem de dados relacionais;
