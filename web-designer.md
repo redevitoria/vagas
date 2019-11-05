@@ -17,12 +17,10 @@
 * 4+ anos de experiencia como Web Designer;
 * Adobe XD e Photoshop.
 * Noções de arquitetura da informação, usabilidade, UI e UX;
-* Noções de padronização de design (Style Guide)
-* HTML5 + CSS3 + SASS	
 
 ### O que a gente adoraria ver em você:
+* Noções de padronização de design (Style Guide)
 * Git e Github;
-* Noções de Javascript, jQuery e AngularJS;
 * Inglês técnico.
 
 ### Nós oferecemos:
