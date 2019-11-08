@@ -20,7 +20,6 @@
 
 ### O que a gente adoraria ver em você:
 * Noções de padronização de design (Style Guide)
-* Git e Github;
 * Inglês técnico.
 
 ### Nós oferecemos:
