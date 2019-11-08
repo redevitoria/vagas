@@ -26,6 +26,7 @@
 * AWS.
 
 ### Nós oferecemos:
+* Café bom e infinito;
 * Salário competitivo com o mercado;
 * Plano de saúde e odontológico;
 * Ticket alimentação e vale transporte.
