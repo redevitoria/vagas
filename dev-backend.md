@@ -6,7 +6,7 @@
 * Motivado em resolver desafios complexos que vão além do if/else.
 
 ### Suas atribuições serão:
-* Manter e implementar evoluções em aplicações Rails escrevendo código limpo, organizado e bem documentado;
+* Manter e implementar evoluções em aplicações, escrevendo código limpo, organizado e bem documentado;
 * Manter, desenvolver e sugerir melhorias em APIs Rest desenvolvidas em Rails e NodeJS;
 * Propor refatorações em códigos existentes visando melhoria de performance ou legibilidade;
 * Modelar aplicações que usem diferentes tecnologias de desenvolvimento e armazenamento, extraindo o melhor de cada uma delas para cada caso de uso.
@@ -15,7 +15,7 @@
 * 3+ anos de experiência em desenvolvimento de software e pelo menos 2 anos com Ruby on Rails;
 * Criação e manutenção de API Rest;
 * Domínio em MySQL e modelagem de dados relacionais;
-* Domínio completo do Git e Github;
+* Domínio do Git e Github;
 * Saber se virar bem em ambiente Linux.
 
 ### O que a gente adoraria ver em você:
